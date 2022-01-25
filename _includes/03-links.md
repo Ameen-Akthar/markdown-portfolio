@@ -1,1 +1,1 @@
-https://github.com/Ameen-Akthar
+[GitHub](https://github.com/Ameen-Akthar)
